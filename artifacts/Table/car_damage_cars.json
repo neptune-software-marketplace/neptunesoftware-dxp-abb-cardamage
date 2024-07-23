@@ -1,0 +1,49 @@
+{
+	"id": "6fe1b7c4-57d1-ee11-85f9-0022489e2ecd",
+	"createdAt": "2024-02-22T07:55:42.376Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"fields": [
+		{
+			"id": "10721455-6c55-466e-a335-01cf36fb2a1a",
+			"fieldName": "carModel",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "090cb962-3109-4806-f3ac-a33d275c8349",
+			"fieldName": "carManufacturer",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "1dbb6bd5-ce48-460d-d170-3ae2296d6a4d",
+			"fieldName": "carStockImage",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "f85c6337-0eaf-4bbc-da0f-75514967df63",
+			"fieldName": "carSVG",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "83503d11-5c01-4817-8d6b-f4a0bb2e30e1",
+			"fieldName": "carJSON",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "car_damage_cars",
+	"description": null,
+	"ver": "24.2.22.1015",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

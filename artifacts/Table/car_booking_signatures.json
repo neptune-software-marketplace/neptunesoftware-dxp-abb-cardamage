@@ -1,0 +1,37 @@
+{
+	"id": "2f360e1e-bad3-ee11-85f9-0022489e2e2b",
+	"createdAt": "2024-02-25T08:44:46.063Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"fields": [
+		{
+			"id": "1708ead2-e682-43d3-b968-68c2aee1907d",
+			"fieldName": "customerSignatureRental",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "e313b2cd-71e9-430e-e340-68b8d7edccb0",
+			"fieldName": "customerSignatureReturn",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "8ceab970-a4e2-487e-d6e6-637e4f8f27e6",
+			"fieldName": "bookingId",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "car_booking_signatures",
+	"description": null,
+	"ver": "24.2.25.945",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

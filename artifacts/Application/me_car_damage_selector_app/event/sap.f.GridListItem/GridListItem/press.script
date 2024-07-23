@@ -1,0 +1,49 @@
+if (InputCustomerFirstName.getValueState() == "Error" ||
+    InputCustomerLastName.getValueState() == "Error" ||
+    DateRangeSelection.getValueState() == "Error" ||
+    InputCustomerMail.getValueState() == "Error") {
+    sap.m.MessageToast.show("Please input all the required fields!");    
+}
+
+else {
+
+const context = oEvent.oSource.getBindingContext();  
+const data = context.getObject();
+console.log(data.carJSON);
+
+
+var options = {
+    data: {
+        "carSVG" : data.carSVG,
+        "carModelId" : data.id,
+        "carManufacturer" :  data.carManufacturer,
+        "carModelName" :  data.carModel,
+        "carStockImage" :  data.carStockImage,
+        "carIsRented" :  false,
+        "parts": data.carJSON,
+        "customerFirstName": InputCustomerFirstName.getValue(),
+        "customerLastName" : InputCustomerLastName.getValue(),
+        "bookingDateRange" : DateRangeSelection.getValue(),
+        "carLicensePlateNumber" : "",
+        "bookingStatus" : "Ready",
+        "customerMail" : InputCustomerMail.getValue()
+    }
+};
+
+apiCreate_New_Car_API(options);
+
+
+InputCustomerFirstName.setValue("");
+InputCustomerFirstName.setValueState("Error")
+
+InputCustomerLastName.setValue("");
+InputCustomerLastName.setValueState("Error")
+
+DateRangeSelection.setValue("");
+DateRangeSelection.setValueState("Error")
+
+InputCustomerMail.setValue("");
+InputCustomerMail.setValueState("Error")
+
+
+}

@@ -1,0 +1,37 @@
+{
+	"id": "91c15b0f-42ca-ee11-85f9-0022489e2e3e",
+	"createdAt": "2024-02-13T07:32:40.250Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"fields": [
+		{
+			"id": "721c78ee-e570-42cb-ce8a-2b7df74b0da2",
+			"fieldName": "carID",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "350463a4-8ac3-4085-a114-6b25d343c9f5",
+			"fieldName": "picture",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": false
+		},
+		{
+			"id": "da1eff6e-0509-4f24-e24e-1760687f6fad",
+			"fieldName": "part",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "car_damage_parts_pictures",
+	"description": null,
+	"ver": "24.2.13.118",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

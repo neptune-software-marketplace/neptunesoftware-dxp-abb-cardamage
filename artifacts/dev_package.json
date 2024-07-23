@@ -1,0 +1,127 @@
+{
+	"id": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
+	"createdAt": "2024-02-13T07:35:24.690Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-cardamage"
+	},
+	"name": "Car_Damage_Selector_App",
+	"description": null,
+	"ver": "24.07.23.1003",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "1228be9d-e0c0-ee11-85f9-0022489e2e3e",
+			"application": "me_car_damage_selector_app",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "D0C4BF72-42CA-EE11-85F9-0022489E2E3E"
+			}
+		}
+	],
+	"api": [
+		{
+			"id": "d07f05ca-adc8-ee11-85f9-0022489e2e3e",
+			"name": "car_damage_selector_cars",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "ba532f85-4aca-ee11-85f9-0022489e2e3e",
+			"name": "car_damage_parts_pictures",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "b29abc4d-43f3-ee11-aaf0-000d3ab82dc5",
+			"name": "carRentalSendMail",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "7ee86c4f-bad3-ee11-85f9-0022489e2e2b",
+			"name": "car_booking_signatures",
+			"description": null,
+			"apiGroup": null
+		},
+		{
+			"id": "37d7dde4-62d1-ee11-85f9-0022489e2ecd",
+			"name": "car_damage_cars",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "91c15b0f-42ca-ee11-85f9-0022489e2e3e",
+			"name": "car_damage_parts_pictures",
+			"description": null
+		},
+		{
+			"id": "6ff8d113-50c7-ee11-85f9-0022489e2e3e",
+			"name": "car_damage_parts",
+			"description": null
+		},
+		{
+			"id": "6fe1b7c4-57d1-ee11-85f9-0022489e2ecd",
+			"name": "car_damage_cars",
+			"description": null
+		},
+		{
+			"id": "2f360e1e-bad3-ee11-85f9-0022489e2e2b",
+			"name": "car_booking_signatures",
+			"description": null
+		}
+	],
+	"jsclass": [
+		{
+			"id": "52d16fbb-3ff3-ee11-aaf0-000d3ab82dc5",
+			"name": "sendMailRentHandover",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "6f2ee5a5-3ff3-ee11-aaf0-000d3ab82dc5",
+			"name": "EMAIL_CAR_RENTAL",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [
+		{
+			"id": "90392f30-bbd4-ee11-85f9-0022489e2e2b",
+			"application": "booking_car_confirmation",
+			"description": ""
+		}
+	],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [
+		{
+			"id": "bc99237b-0ef7-ee11-aaf0-000d3ab82dc5",
+			"name": "carRentalMailRented",
+			"description": "Test"
+		}
+	],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

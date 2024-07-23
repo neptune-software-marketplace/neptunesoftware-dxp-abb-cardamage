@@ -1,0 +1,117 @@
+{
+	"id": "6ff8d113-50c7-ee11-85f9-0022489e2e3e",
+	"createdAt": "2024-02-09T13:35:27.086Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"fields": [
+		{
+			"id": "35ee7032-a662-4d43-ec24-483f5e67b514",
+			"fieldName": "parts",
+			"fieldType": "json",
+			"isUnique": false,
+			"default": "",
+			"isNullable": false
+		},
+		{
+			"id": "c390f07b-89b2-4ca9-bdf7-a919f7ded103",
+			"fieldName": "carNumber",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": false,
+			"default": "999999"
+		},
+		{
+			"id": "d90fa480-5a45-4497-ab6a-460dcc70ff8e",
+			"fieldName": "carManufacturer",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "914f8334-b656-426d-c26f-b16f315606a4",
+			"fieldName": "carModelName",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "d58934a6-b92a-4591-afd6-ffc9b0eb931b",
+			"fieldName": "carStockImage",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "e6b20b2c-eb46-4f49-d4f4-bc62902d126c",
+			"fieldName": "carIsRented",
+			"fieldType": "boolean",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "27c9eb69-4d57-44ce-9562-6f363b95f25e",
+			"fieldName": "carModelId",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "5cfc3865-05b5-4c3d-a3e8-3da530853231",
+			"fieldName": "carSVG",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "26a970ac-28fc-499b-ba27-296ae2f5d2fa",
+			"fieldName": "customerFirstName",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "d522bf15-b0fe-440c-f5ba-2ffc34f02a54",
+			"fieldName": "bookingDateRange",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "d59d2745-128d-4797-9967-8a5efd9a6018",
+			"fieldName": "bookingStatus",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fddffbed-cbd5-46a8-a35e-e53743d397a0",
+			"fieldName": "customerLastName",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "0b7170ef-fc0f-4829-f59e-0939334bb93b",
+			"fieldName": "carLicensePlateNumber",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "d108b0be-b566-40cf-ba36-ac3bb31254d8",
+			"fieldName": "customerMail",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "car_damage_parts",
+	"description": null,
+	"ver": "24.4.10.1334",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
+	"rolesRead": [],
+	"rolesWrite": []
+}

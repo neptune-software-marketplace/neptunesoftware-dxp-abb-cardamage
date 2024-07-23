@@ -1,0 +1,17 @@
+console.log("TEST");
+console.log(_contextPictureTable.id);
+
+
+var options = {
+    parameters: {
+        "where": JSON.stringify({"id": _contextPictureTable.id})
+    },
+    data: {
+        "id": _contextPictureTable.id,
+    }
+};
+
+
+
+apiDelete_Single_Picture_Car(options);
+DeleteSinglePictureDialog.close();

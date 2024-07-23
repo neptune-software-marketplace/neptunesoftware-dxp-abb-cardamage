@@ -1,0 +1,16 @@
+App.to(Page);
+
+var options = {
+    parameters: {
+        //"where": { "bookingId": modelSimpleForm.getData().id } // Optional
+        "where" : JSON.stringify({"bookingId": modelSimpleForm.getData().id})// Optional  
+    }
+};
+
+apiGetBookingSignatureRentStart(options);
+
+
+SaveChangesButton.firePress();
+
+
+

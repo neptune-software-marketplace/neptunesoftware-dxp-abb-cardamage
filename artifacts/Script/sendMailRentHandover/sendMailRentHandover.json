@@ -1,0 +1,21 @@
+{
+	"id": "52d16fbb-3ff3-ee11-aaf0-000d3ab82dc5",
+	"createdAt": "2024-04-05T11:29:15.833Z",
+	"createdBy": "magnus.ertel@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "sendMailRentHandover",
+	"ver": "24.4.10.749",
+	"description": null,
+	"folder": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "6f2ee5a5-3ff3-ee11-aaf0-000d3ab82dc5",
+	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e"
+}

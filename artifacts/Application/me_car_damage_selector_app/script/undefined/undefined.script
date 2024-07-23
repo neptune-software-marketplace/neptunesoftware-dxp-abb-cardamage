@@ -1,0 +1,67 @@
+.selectedProblem {
+  font-weight: bold;
+}
+
+.svgContainer {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+.part {
+  fill-opacity: 0;
+  stroke-opacity: 0;
+}
+
+.part:hover {
+  fill-opacity: 1 !important;
+  fill: #b2b2b2;
+}
+
+.part.scratch {
+  fill: orange;
+  fill-opacity: 0.5;
+}
+
+.part.dent {
+  fill: blueviolet;
+  fill-opacity: 0.5;
+}
+
+.part.chip {
+  fill: blue;
+  fill-opacity: 0.5;
+}
+
+.part1 {
+  fill-opacity: 0;
+}
+
+.part2 {
+  fill-opacity: 0;
+}
+
+.part3 {
+  fill-opacity: 0;
+}
+
+.part4 {
+  fill-opacity: 0;
+}
+
+.part5 {
+  fill-opacity: 0;
+}
+
+.Tint {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.DarkerTint {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.listcontainer ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

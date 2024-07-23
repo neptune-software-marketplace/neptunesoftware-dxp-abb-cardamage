@@ -1,0 +1,82 @@
+if (InputCarLicensePlateNumber.getValueState() == "Error" ||
+    DateRangeSelectionBookingTimeframeRI.getValueState() == "Error" ||
+    InputCustomerLastNameRI.getValueState() == "Error" ||
+    InputCustomerFirstNameRI.getValueState() == "Error" ||
+    InputBookingNumberRI.getValueState() == "Error") {
+    sap.m.MessageToast.show("Please input all the required fields!");
+    return;    
+}
+
+
+
+
+var options = {
+    data: {
+        "id": modelSimpleForm.getData().id,
+        "carNumber" : InputBookingNumberRI.getValue(),
+        "customerFirstName" : InputCustomerFirstNameRI.getValue(),
+        "customerLastName" : InputCustomerLastNameRI.getValue(),
+        "customerMail" : InputCustomerMailRI.getValue(),
+        "bookingDateRange" : DateRangeSelectionBookingTimeframeRI.getValue(),
+        "bookingStatus" : modelSimpleForm.getData().bookingStatus,
+        "carLicensePlateNumber" : modelSimpleForm.getData().carLicensePlateNumber,
+        "parts": {
+            "path1": {
+                "type": modelSimpleForm.getData().parts.path1.type,
+                "severity": modelSimpleForm.getData().parts.path1.severity,
+            },
+            "path2": {
+                "type": modelSimpleForm.getData().parts.path2.type,
+                "severity": modelSimpleForm.getData().parts.path2.severity,
+            },
+            "path3": {
+                "type": modelSimpleForm.getData().parts.path3.type,
+                "severity": modelSimpleForm.getData().parts.path3.severity,
+            },
+            "path4": {
+                "type": modelSimpleForm.getData().parts.path4.type,
+                "severity": modelSimpleForm.getData().parts.path4.severity,
+            },
+            "path5": {
+                "type": modelSimpleForm.getData().parts.path5.type,
+                "severity": modelSimpleForm.getData().parts.path5.severity,
+            },
+            "path6": {
+                "type": modelSimpleForm.getData().parts.path6.type,
+                "severity": modelSimpleForm.getData().parts.path6.severity,
+            },
+            "path7": {
+                "type": modelSimpleForm.getData().parts.path7.type,
+                "severity": modelSimpleForm.getData().parts.path7.severity,
+            },
+            "path8": {
+                "type": modelSimpleForm.getData().parts.path8.type,
+                "severity": modelSimpleForm.getData().parts.path8.severity,
+            },
+            "path9": {
+                "type": modelSimpleForm.getData().parts.path9.type,
+                "severity": modelSimpleForm.getData().parts.path9.severity,
+            },
+            "path10": {
+                "type": modelSimpleForm.getData().parts.path10.type,
+                "severity": modelSimpleForm.getData().parts.path10.severity,
+            },
+            "path11": {
+                "type": modelSimpleForm.getData().parts.path11.type,
+                "severity": modelSimpleForm.getData().parts.path11.severity,
+            },
+            "path12": {
+                "type": modelSimpleForm.getData().parts.path12.type,
+                "severity": modelSimpleForm.getData().parts.path12.severity,
+            },
+            "path13": {
+                "type": modelSimpleForm.getData().parts.path13.type,
+                "severity": modelSimpleForm.getData().parts.path13.severity,
+            },
+        },
+    }
+};
+
+console.log(modelSimpleForm.getData());
+
+apiSet_Car_Damage_Parts(options);

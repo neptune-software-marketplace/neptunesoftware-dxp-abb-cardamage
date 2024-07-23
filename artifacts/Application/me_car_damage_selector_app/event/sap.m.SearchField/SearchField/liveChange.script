@@ -1,0 +1,21 @@
+// Multiple Filters using OR
+
+
+const binding = List1.getBinding("items");
+const filter = new sap.ui.model.Filter({
+    filters: [
+        new sap.ui.model.Filter("carNumber", "Contains", this.getValue()),
+        new sap.ui.model.Filter("carManufacturer", "Contains", this.getValue()),
+        new sap.ui.model.Filter("bookingStatus", "Contains", this.getValue()),
+        new sap.ui.model.Filter("carModelName", "Contains", this.getValue()),
+        new sap.ui.model.Filter("customerLastName", "Contains", this.getValue()),
+        new sap.ui.model.Filter("customerFirstName", "Contains", this.getValue()),
+        new sap.ui.model.Filter("carLicensePlateNumber", "Contains", this.getValue())
+    ],
+    and: false
+})
+binding.filter([filter]);
+
+
+
+

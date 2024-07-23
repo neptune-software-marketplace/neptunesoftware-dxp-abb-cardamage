@@ -1,0 +1,17 @@
+// if (typeof bookingDateRange === "undefined" || priority === null || priority === "") { return; }  
+// var formattedText;
+// if(bookingDateRange === 1){
+// var formattedText = "Success";
+// }
+// if(bookingDateRange === 2){
+// var formattedText = "Indication01";
+// }
+// if(bookingDateRange === 3){
+// var formattedText = "Warning";
+// }
+// if(bookingDateRange === 4){
+// var formattedText = "Error";
+// }
+
+
+// return formattedText;
