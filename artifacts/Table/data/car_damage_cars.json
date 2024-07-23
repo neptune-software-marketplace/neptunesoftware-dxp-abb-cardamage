@@ -1,0 +1,392 @@
+[
+	{
+		"id": "eefa0507-756e-4f1a-aaf2-a65075ddc4de",
+		"createdAt": "1708588634190",
+		"updatedAt": "1708601093383",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "A3",
+		"carManufacturer": "Audi",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	},
+	{
+		"id": "cf25bbc5-93e5-4873-8c92-f615bc4c6b23",
+		"createdAt": "1708698476414",
+		"updatedAt": "1708698749196",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "3 Touring",
+		"carManufacturer": "BMW",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/bmw-3-touring-stw-4d-grey-2023-JV.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	},
+	{
+		"id": "ae5e1255-a492-42cd-8b42-679eeeb3f339",
+		"createdAt": "1708698476414",
+		"updatedAt": "1708698476414",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "IX SUV (white)",
+		"carManufacturer": "BMW",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/bmw-ix-suv-white-2023.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	},
+	{
+		"id": "62f75cf4-150d-4759-9685-bbb773f14916",
+		"createdAt": "1708698476414",
+		"updatedAt": "1708698476414",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "EQE AMG 43",
+		"carManufacturer": "Mercedes-Benz",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/mb-eqe-amg-43-sedan-white-2022.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	},
+	{
+		"id": "544b1beb-6e37-4e94-92b2-2a5f5c37fd5b",
+		"createdAt": "1708588698201",
+		"updatedAt": "1708698664705",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "Vito",
+		"carManufacturer": "Mercedes-Benz",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/mb-vito-tourer-van-4d-silver-2014-JV.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	},
+	{
+		"id": "3988a987-8cf6-4fb7-9eb7-e29246fcdf3b",
+		"createdAt": "1708698330377",
+		"updatedAt": "1708698749196",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"carModel": "F Type",
+		"carManufacturer": "Jaguar",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/jaguar-f-type-coupe-2d-gold-2021-JV.png",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car2new.svg",
+		"carJSON": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		}
+	}
+]

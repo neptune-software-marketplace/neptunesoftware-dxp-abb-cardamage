@@ -1,0 +1,668 @@
+[
+	{
+		"id": "d27addcc-9370-4681-88d7-1efd9373df4a",
+		"createdAt": "1717412931514",
+		"updatedAt": "1717412931514",
+		"createdBy": "kaan.koska@neptune-software.com",
+		"updatedBy": "kaan.koska@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Audi",
+		"carModelName": "A3",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carIsRented": false,
+		"carModelId": "EEFA0507-756E-4F1A-AAF2-A65075DDC4DE",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"customerFirstName": "Kaan",
+		"bookingDateRange": "Jun 3, 2024 - Jun 14, 2024",
+		"bookingStatus": "Ready",
+		"customerLastName": "Koska",
+		"carLicensePlateNumber": "",
+		"customerMail": "kaan.koska@neptune-software.com"
+	},
+	{
+		"id": "92cc7cf2-a380-4c8e-856b-15786f201681",
+		"createdAt": "1713792114092",
+		"updatedAt": "1713792138312",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Audi",
+		"carModelName": "A3",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carIsRented": false,
+		"carModelId": "EEFA0507-756E-4F1A-AAF2-A65075DDC4DE",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"customerFirstName": "Daniel",
+		"bookingDateRange": "16.04.2024 - 24.04.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "Vieira",
+		"carLicensePlateNumber": "PLEASE IGNORE",
+		"customerMail": "Daniel.Vieira@neptune-software.com"
+	},
+	{
+		"id": "83df6ee1-244c-4ccf-a317-6dec60f1f58a",
+		"createdAt": "1716990986496",
+		"updatedAt": "1716990986496",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Jaguar",
+		"carModelName": "F Type",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/jaguar-f-type-coupe-2d-gold-2021-JV.png",
+		"carIsRented": false,
+		"carModelId": "3988A987-8CF6-4FB7-9EB7-E29246FCDF3B",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car2new.svg",
+		"customerFirstName": "saas",
+		"bookingDateRange": "16.05.2024 - 24.05.2024",
+		"bookingStatus": "Ready",
+		"customerLastName": "sasa",
+		"carLicensePlateNumber": "",
+		"customerMail": "saasas"
+	},
+	{
+		"id": "7dc16898-20a3-4f2b-9d04-57d371dbedf7",
+		"createdAt": "1715084469038",
+		"updatedAt": "1715084529348",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "scratch",
+				"severity": 0.57
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Audi",
+		"carModelName": "A3",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carIsRented": false,
+		"carModelId": "EEFA0507-756E-4F1A-AAF2-A65075DDC4DE",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"customerFirstName": "magnus",
+		"bookingDateRange": "08.05.2024 - 10.05.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "ertel",
+		"carLicensePlateNumber": "HD_ME",
+		"customerMail": "magnus.ertel@neptune-software.com"
+	},
+	{
+		"id": "4fdf5772-1e7b-45b8-8fef-bc7e95dc2a1a",
+		"createdAt": "1713954165725",
+		"updatedAt": "1713954286953",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "scratch",
+				"severity": 0.6
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Audi",
+		"carModelName": "A3",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carIsRented": false,
+		"carModelId": "EEFA0507-756E-4F1A-AAF2-A65075DDC4DE",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"customerFirstName": "Karsten",
+		"bookingDateRange": "24.04.2024 - 25.04.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "Otto",
+		"carLicensePlateNumber": "M-OK-2",
+		"customerMail": "Karsten.Otto@neptune-software.com"
+	},
+	{
+		"id": "4079f7c8-bbf2-4dce-8e60-3ec84a152891",
+		"createdAt": "1716989609130",
+		"updatedAt": "1716989780462",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "scratch",
+				"severity": 0.6
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Mercedes-Benz",
+		"carModelName": "Vito",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/mb-vito-tourer-van-4d-silver-2014-JV.png",
+		"carIsRented": false,
+		"carModelId": "544B1BEB-6E37-4E94-92B2-2A5F5C37FD5B",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"customerFirstName": "Kaan",
+		"bookingDateRange": "30.05.2024 - 01.06.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "Koska",
+		"carLicensePlateNumber": "HD27127",
+		"customerMail": "Kaan.Koska@neptune-software.com"
+	},
+	{
+		"id": "3e255b57-25c1-4c3f-baa7-60278b70e697",
+		"createdAt": "1714980310585",
+		"updatedAt": "1716991122387",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "",
+				"severity": 0
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "dent",
+				"severity": 0.7
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "BMW",
+		"carModelName": "IX SUV (white)",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/bmw-ix-suv-white-2023.png",
+		"carIsRented": false,
+		"carModelId": "AE5E1255-A492-42CD-8B42-679EEEB3F339",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"customerFirstName": "sdsd",
+		"bookingDateRange": "08.05.2024 - 08.05.2024",
+		"bookingStatus": "Ready",
+		"customerLastName": "sdsd",
+		"carLicensePlateNumber": "ME-1337",
+		"customerMail": "sss"
+	},
+	{
+		"id": "1f0abaaa-455a-4849-abc3-81dc58422da5",
+		"createdAt": "1716881746909",
+		"updatedAt": "1716881788460",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "dent",
+				"severity": 0.24
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "",
+				"severity": 0
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "",
+				"severity": 0
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Audi",
+		"carModelName": "A3",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/audi-a3-4d-grey-2021.png",
+		"carIsRented": false,
+		"carModelId": "EEFA0507-756E-4F1A-AAF2-A65075DDC4DE",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/carNew.svg",
+		"customerFirstName": "jsdbajasd",
+		"bookingDateRange": "29.05.2024 - 30.05.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "sdnhfsd",
+		"carLicensePlateNumber": "MEash112",
+		"customerMail": "magnus.ertel@neptune-software.com"
+	},
+	{
+		"id": "094dedf9-8664-43d3-a014-d95d2fbba4bf",
+		"createdAt": "1716894386281",
+		"updatedAt": "1716894507821",
+		"createdBy": "magnus.ertel@neptune-software.com",
+		"updatedBy": "magnus.ertel@neptune-software.com",
+		"parts": {
+			"path1": {
+				"type": "scratch",
+				"severity": 0.31
+			},
+			"path2": {
+				"type": "",
+				"severity": 0
+			},
+			"path3": {
+				"type": "chip",
+				"severity": 0.54
+			},
+			"path4": {
+				"type": "",
+				"severity": 0
+			},
+			"path5": {
+				"type": "",
+				"severity": 0
+			},
+			"path6": {
+				"type": "",
+				"severity": 0
+			},
+			"path7": {
+				"type": "",
+				"severity": 0
+			},
+			"path8": {
+				"type": "scratch",
+				"severity": 0.46
+			},
+			"path9": {
+				"type": "",
+				"severity": 0
+			},
+			"path10": {
+				"type": "",
+				"severity": 0
+			},
+			"path11": {
+				"type": "",
+				"severity": 0
+			},
+			"path12": {
+				"type": "",
+				"severity": 0
+			},
+			"path13": {
+				"type": "",
+				"severity": 0
+			}
+		},
+		"carNumber": "999999",
+		"carManufacturer": "Mercedes-Benz",
+		"carModelName": "Vito",
+		"carStockImage": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/mb-vito-tourer-van-4d-silver-2014-JV.png",
+		"carIsRented": false,
+		"carModelId": "544B1BEB-6E37-4E94-92B2-2A5F5C37FD5B",
+		"carSVG": "https://gtmdemosystem.neptune-software.cloud/media/root/ME/CarDamageSelectorApp/car3.svg",
+		"customerFirstName": "maasdnhsd",
+		"bookingDateRange": "29.05.2024 - 31.05.2024",
+		"bookingStatus": "Rented",
+		"customerLastName": "dsjkasdj",
+		"carLicensePlateNumber": "dshasduasdhsad",
+		"customerMail": "magnus.ertel@neptune-software.com"
+	}
+]

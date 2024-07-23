@@ -40,9 +40,9 @@
 	"foreignKeys": [],
 	"name": "car_damage_cars",
 	"description": null,
-	"ver": "24.2.22.1015",
+	"ver": "24.07.23.1305",
 	"enableAudit": false,
-	"includeDataInPackage": false,
+	"includeDataInPackage": true,
 	"package": "d0c4bf72-42ca-ee11-85f9-0022489e2e3e",
 	"rolesRead": [],
 	"rolesWrite": []
